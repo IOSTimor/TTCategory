@@ -1,0 +1,16 @@
+PODS:
+  - XCCategoryDate (0.1.0)
+
+DEPENDENCIES:
+  - XCCategoryDate (from `../`)
+
+EXTERNAL SOURCES:
+  XCCategoryDate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XCCategoryDate: 67bfb1f684d13a372aee02675dd09e484e5a74d4
+
+PODFILE CHECKSUM: 4afccfd2981a18ae9ac5b5ff8dcb17314bc0c32e
+
+COCOAPODS: 1.8.4

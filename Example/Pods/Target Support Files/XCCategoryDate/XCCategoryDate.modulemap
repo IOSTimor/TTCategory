@@ -1,0 +1,6 @@
+framework module XCCategoryDate {
+  umbrella header "XCCategoryDate-umbrella.h"
+
+  export *
+  module * { export * }
+}

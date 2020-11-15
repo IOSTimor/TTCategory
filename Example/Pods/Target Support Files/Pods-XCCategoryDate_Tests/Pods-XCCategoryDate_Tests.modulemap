@@ -1,0 +1,6 @@
+framework module Pods_XCCategoryDate_Tests {
+  umbrella header "Pods-XCCategoryDate_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
