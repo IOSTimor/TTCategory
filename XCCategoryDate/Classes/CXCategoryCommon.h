@@ -9,7 +9,6 @@
 #import <Foundation/Foundation.h>
 #import "NSNumber+Additions.h"
 #import "NSString+Additions.h"
-#import "NSString+AttributedString.h"
 #import "NSString+Helper.h"
 #import "NSString+MD5.h"
 #import "NSString+NULL.h"
