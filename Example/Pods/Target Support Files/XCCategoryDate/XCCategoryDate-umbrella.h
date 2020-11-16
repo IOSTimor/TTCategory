@@ -10,6 +10,16 @@
 #endif
 #endif
 
+#import "CXCategoryCommon.h"
+#import "HZAdditionsCont.h"
+#import "NSDate+Helper.h"
+#import "NSNumber+Additions.h"
+#import "NSString+Additions.h"
+#import "NSString+AttributedString.h"
+#import "NSString+Helper.h"
+#import "NSString+MD5.h"
+#import "NSString+NULL.h"
+#import "NSString+SEL.h"
 #import "UIScreen+Size.h"
 
 FOUNDATION_EXPORT double XCCategoryDateVersionNumber;
