@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "HZAdditionsCont.h"
+#import "NSString+AttributedString.h"
 #import "NSNumber+Additions.h"
 #import "NSString+Additions.h"
 #import "NSString+Helper.h"
@@ -15,7 +17,7 @@
 #import "NSString+SEL.h"
 #import "UIScreen+Size.h"
 #import "UIImage+Transform.h"
-#import "HZAdditionsCont.h"
+
 
 
 
